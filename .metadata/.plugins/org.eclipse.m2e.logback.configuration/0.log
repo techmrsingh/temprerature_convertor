@@ -23,3 +23,18 @@
 2017-06-09 12:24:16,154 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
 2017-06-09 12:24:16,156 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-09 12:24:16,156 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
+2017-06-09 12:55:08,340 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:55:08,351 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 12:55:08,353 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:55:08,354 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
+2017-06-09 13:53:58,264 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: temprature-convertor:com.rahul:0.0.1-SNAPSHOT @ /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/pom.xml.
+2017-06-09 13:53:58,265 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: temprature-convertor:com.rahul:0.0.1-SNAPSHOT @ /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/pom.xml.
+2017-06-09 13:54:01,720 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 13:54:01,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 13:54:01,723 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 13:54:01,723 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
+2017-06-09 13:54:05,114 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: temprature-convertor:com.rahul:0.0.1-SNAPSHOT @ /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/pom.xml.
+2017-06-09 13:54:05,551 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 13:54:05,552 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 13:54:05,554 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 13:54:05,554 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
