@@ -1,0 +1,25 @@
+2017-06-09 12:21:01,250 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/pom.xml
+2017-06-09 12:21:11,243 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: temprature-convertor:com.rahul:0.0.1-SNAPSHOT @ /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/pom.xml.
+2017-06-09 12:21:14,148 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.rahul/src/main/java
+2017-06-09 12:21:14,152 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.rahul/src/test/java
+2017-06-09 12:21:26,371 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2017-06-09 12:21:28,204 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:21:28,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 12:21:28,207 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:21:28,207 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
+2017-06-09 12:21:42,237 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:21:42,263 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 12:21:42,265 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:21:42,265 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
+2017-06-09 12:23:13,553 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:23:13,578 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 12:23:13,586 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:23:13,586 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
+2017-06-09 12:24:12,960 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:24:12,981 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 12:24:12,983 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:24:12,984 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
+2017-06-09 12:24:16,154 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:24:16,154 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/main/resources
+2017-06-09 12:24:16,156 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-09 12:24:16,156 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahulsingh/Documents/Eclipse_Rahul_Neon/FrameWorkPractice/com.rahul/src/test/resources
